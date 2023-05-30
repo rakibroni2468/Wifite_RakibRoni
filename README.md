@@ -9,7 +9,7 @@
 apt update && apt upgrade
 pkg install -y root-repo
 pkg install -y git tsu python wpa-supplicant pixiewps iw
-git clone https://github.com/Mahfuz-THBD/Wifi_Hack
+git clone https://github.com/rakibroni2468/Wifite_RakibRoni
 cd Wifite_RakibRoni
 chmod +x wifihack.py
 sudo python wifihack.py --help
